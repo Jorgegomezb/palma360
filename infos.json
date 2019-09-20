@@ -1,0 +1,42 @@
+{
+"p1":[
+		{
+            "id":"info1",
+            "x":0.69,
+            "y":0.01,
+            "z":-0.72,
+            "texto": "Este singular árbol, conocido como la Olivera de Cort, fue trasplantado en 1999 desde Pedruixella Petit (Pollensa), en la Sierra de Tramuntana, para ser plantado en la plaza de Cort, como un símbolo de paz y arraigo a la tierra. En su lugar original sirvió de modelo a pintores y fotógrafos. El Olivo de Cort está ubicado en medio de la plaza del mismo nombre, justo delante del consistorio de la capital de Mallorca. El propietario, al conocer el destino del olivo, la regaló al municipio. En ese momento pesaba 3-4 toneladas. Rebrota al año siguiente sin problemas y se encuentra en buenas condiciones vegetativas.",
+            "imagen":"img/olivo.jpg",
+            "url":"https://www.google.com/search?q=olivo+cort+palma&source=lnms&sa=X&ved=0ahUKEwjiqJiom8bhAhXiiIsKHdl0AmoQ_AUICSgA&biw=1920&bih=920&dpr=1"
+        },
+        {
+            "id":"info2",
+            "x": -0.98,
+            "y":0.10,
+            "z":-0.10,
+            "texto": "El Ayuntamiento de Palma (Oficialmente y en catalán Ajuntament de Palma), también conocido popularmente como Cort, es una de las cuatro administraciones públicas con responsabilidad política en la ciudad de Palma (Illes Balears) junto a la Administración General del Estado de España, el Gobierno de las Islas Baleares, y el Consejo Insular de Mallorca.",
+            "imagen":"img/ayuntamiento1.jpg",
+            "url":"https://www.palma.cat/portal/PALMA/home.jsp?codResi=1"
+        },
+        {
+            "id":"info3",
+            "x": -0.80,
+            "y":0.57,
+            "z":-0.15,
+            "texto": "La bandera de Mallorca está constituida por cuatro barras rojas horizontales sobre fondo amarillo, con una franja vertical al asta de color morado donde se incluye un castillo de cinco torres colocado en posición vertical. El castillo representa la Almudaina, siendo reconocible por su estatua de un ángel",
+            "imagen":"img/bandera.svg",
+            "url":"https://es.wikipedia.org/wiki/Bandera_de_Mallorca"
+        }			
+    ],
+"p2":[
+    {
+        "id":"info4",
+        "x":-0.98,
+        "y":0.16,
+        "z":-0.03,
+        "texto": "El Consell de Mallorca ejerce, según las competencias, un poder legislativo (Pleno del Consejo) y ejecutivo. El pleno está compuesto por 33 diputados. Este pleno se encarga de aprobar las leyes y elegir el presidente de la institución, que a su vez nombra al Consejo Ejecutivo.",
+        "imagen":"img/consell.png",
+        "url":"https://www.conselldemallorca.cat/"
+    }
+    ]
+}
